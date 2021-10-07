@@ -1,0 +1,3 @@
+We use Radau because the other's didn't work
+
+The result makes sense analytically. The ratio of Pb206/U238 starts out at an extremely low value as almost no uranium would have fully decayed down to lead. By one half life of U238 the ratio of Pb206/U238 is 1 as there are near equal amounts of the initial and final decay products

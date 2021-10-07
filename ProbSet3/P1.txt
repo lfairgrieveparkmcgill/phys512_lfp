@@ -1,0 +1,3 @@
+Mean err for regular rk4 is 0.0001161534941249398
+Mean err for modified rk4 is 5.7805234257885815e-05
+The modified rk4 is more accurate
