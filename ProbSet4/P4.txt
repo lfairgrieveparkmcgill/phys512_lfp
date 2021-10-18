@@ -1,0 +1,41 @@
+Tau fixed mcmc parameters are
+H0 = 67.47207045450766 with err 0.6105441818003493 
+
+ombh2 = 0.02221516582495259 with err 0.00012662408260275364 
+
+omch2 = 0.11929703432444409 with err 0.0015312696644209827 
+
+Fixed tau = 0.0540 with err 0.0074
+
+As = 2.092338320215308e-09 with err 8.687713427251079e-12 
+
+ns = 0.9698355148289526 with err 0.003472385623409476 
+
+
+
+Importance sampled params from original mcmc are
+importance sampled  H0  has mean  67.84499820407873
+importance sampled  ombh2  has mean  0.022257000876879224
+importance sampled  omch2  has mean  0.11853324839509598
+importance sampled  tau  has mean  0.10281422250796769
+importance sampled  As  has mean  2.2906112145993017e-09
+importance sampled  ns  has mean  0.9712244203367953
+
+
+All of the values are within uncertainty except tau and As. I'm not entirely sure what to expect here. It does appear that by forcing tau to a fixed value, the As param has changed to compensate compared to the original mcmc chain.
+
+For the bonus question, the err reported on the mcmc method are 1 sigma, so the 5 sigma error would be the current listed errors * 5. The params with 5 sigma error for the original mcmc chain is
+
+H0 = 67.8395674609882 with err 3.0348775195841466 
+
+ombh2 = 0.022255019292289468 with err 0.001050002419922733 
+
+omch2 = 0.11851235755084781 with err 0.007867374408296721 
+
+tau = 0.0992392375683886 with err 0.09417786094969514 
+
+As = 2.2876283669102755e-09 with err 4.130268449987677e-10 
+
+ns = 0.9711976384511841 with err 0.025500247083497178 
+
+None of these params are in the negative range so we're good.

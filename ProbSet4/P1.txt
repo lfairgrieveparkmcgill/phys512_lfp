@@ -1,0 +1,9 @@
+old param chisq is  15267.937968222595  for  2501  degrees of freedom.
+chi square is 2.5523666469857247 standard deviations from the mean
+
+2.5 standard deviations from the mean for the old params is not a very good fit (approx 0.5 percentile), implication is model is likely incorrect.
+
+new param chisq is  3272.2033778089576  for  2501  degrees of freedom.
+chi square is 0.15417900396020745 standard deviations from the mean
+
+0.15 standard deviations fro the mean for the new params is an acceptable fit (approx 45 percentile).

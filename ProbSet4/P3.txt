@@ -1,0 +1,5 @@
+Convergance of chains:
+I don't think my chains have converged, they and the chi square chain do not appear gaussian (P3a and P3b). I think this may be a step size issue or a not running a long enough chain issue. However, the chisquare chain is very consistent. Maybe it actually has?
+
+Dark energy estimate:
+For derivation of dark energy amount and error see P3.pdf and notebook, omlam =  0.6941307083857625 with err 0.006469555262901382
