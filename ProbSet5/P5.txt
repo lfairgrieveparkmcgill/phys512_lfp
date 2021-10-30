@@ -1,0 +1,5 @@
+c) mean error 0.008920793063616443 that is not very close but c'est la vie.
+
+D) it kind of drops a little bit? Not really I guess
+
+E) So in absolute terms it is not matching up with N scaling and it doesn't look good when I make it negative. However, second and last entry in array are half the amplitude of the first which matches, and the function does decay to 0 for other values...

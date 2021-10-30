@@ -1,0 +1,1 @@
+The length of the convolved array is len(array1)+len(array2)-1
